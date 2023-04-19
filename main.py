@@ -56,10 +56,8 @@ def main(prompt_prefix):
                 consumed_tokens = _send_request_to_gpt3_api(lines, output_file)
                 total_consumed_token += consumed_tokens
 
-                # 次の10行のためにlinesを空にします
                 lines = []
 
-        # 最後の10行未満の行がある場合
         if lines:
             consumed_tokens = _send_request_to_gpt3_api(lines, output_file)
             total_consumed_token += consumed_tokens
