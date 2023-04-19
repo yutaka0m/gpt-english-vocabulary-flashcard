@@ -1,0 +1,20 @@
+properly,適切に
+sightly,わずかに
+highly,非常に
+formally,公式に
+likely,おそらく
+hardly,ほとんど〜しない
+particularly,特に
+seldom,めったに〜しない
+gradually,徐々に
+sharply,急激に
+regarding,〜に関して
+concerning,〜に関して
+except,〜以外は
+via,~経由で
+participate in,~に参加する
+carry out,実行する
+point at,指し示す
+deal with,処理する
+take over,引き継ぐ　買収する
+rely on,~に頼る
