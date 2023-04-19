@@ -12,7 +12,7 @@
 ```bash
 export OPENAI_API_KEY="open api api kye を指定"
 
-python mian.py
+python main.py
 ```
 
 ### 出力
