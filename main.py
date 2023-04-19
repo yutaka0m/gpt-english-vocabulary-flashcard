@@ -23,7 +23,7 @@ def send_request_to_gpt3_api(text, prompt_prefix):
     )
 
     response_text = response.choices[0].message.content
-    # 空白業があったら削除
+    # 空白行があったら削除
     response_text = "\n".join(line for line in response_text.split("\n") if line.strip())
 
     consumed_tokens = response['usage']['total_tokens']
