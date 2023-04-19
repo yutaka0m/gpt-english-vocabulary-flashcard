@@ -1,4 +1,4 @@
-# gpt-englsh-vocabulary-flashcard
+# gpt-english-vocabulary-flashcard
 
 ## 使い方
 
