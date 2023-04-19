@@ -1,0 +1,20 @@
+properly;適切に;副詞;Please make sure to properly fill out the answer sheet.
+sightly;わずかに;副詞;The company's profit increased only slightly compared to last year.
+highly;非常に;副詞;The new product is highly recommended by experts.
+formally;公式に;副詞;The contract was formally signed by both parties.
+likely;おそらく;副詞;The meeting will likely be postponed due to the typhoon.
+hardly;ほとんど〜しない;副詞;I hardly ever go to the gym.
+particularly;特に;副詞;I like all kinds of music, particularly jazz.
+seldom;めったに〜しない;副詞;She seldom eats fast food.
+gradually;徐々に;副詞;The company is gradually expanding its business.
+sharply;急激に;副詞;The stock prices fell sharply after the announcement.
+regarding;〜に関して;前置詞;Regarding the new project, we need to discuss the details.
+concerning;〜に関して;前置詞;Concerning the upcoming meeting, please check your email for the agenda.
+except;〜以外は;接続詞;All the items are on sale except for the blue one.
+via;~経由で;前置詞;I received the package via express mail.
+participate in;~に参加する;動詞句;We encourage our employees to participate in company events.
+carry out;実行する;動詞;The team will carry out the project plan as scheduled.
+point at;指し示す;動詞;The teacher pointed at the map to show the location of the capital city.
+deal with;処理する;動詞;The customer service representative will deal with your complaint as soon as possible.
+take over;引き継ぐ　買収する;動詞;The new CEO will take over the company next month.
+rely on;~に頼る;動詞;I always rely on my alarm clock to wake me up in the morning.
